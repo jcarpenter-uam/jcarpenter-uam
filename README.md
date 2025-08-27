@@ -21,10 +21,5 @@
 
 <h3 align="left">Projects</h3>
 
+-   [**UAMINC**](https://www.uaminc.com/): The companies main page
 -   [**Realtime Translation**](https://github.com/jcarpenter-uam/realtime-translation): A realtime translation pipeline, using STT, Translation LLM, and TTS
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpenter-uam&layout=compact&theme=radical&hide=HTML,CSS,R" alt="Top Languages"/>
-</p>
