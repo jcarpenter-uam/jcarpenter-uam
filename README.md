@@ -19,7 +19,7 @@
 <h3 align="left">Projects</h3>
 
 -   [**UAMINC**](https://www.uaminc.com/): The companies main page
--   [**Realtime Translation**](https://github.com/jcarpenter-uam/realtime-translation): A realtime translation pipeline, using STT, Translation LLM, and TTS
+-   [**UAM Translation Tool**](https://github.com/jcarpenter-uam/uam-translation-tool): A realtime translation pipeline, integrated into a zoom app
 
 ---
 
