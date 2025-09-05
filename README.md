@@ -1,4 +1,4 @@
-<h1 align="left">Howdie</h1>
+<h3 align="left">Howdie</h2>
 
 ---
 
