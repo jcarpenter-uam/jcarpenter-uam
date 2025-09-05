@@ -1,5 +1,3 @@
-<h3 align="left">Howdie</h2>
-
 ---
 
 <p align="left">
