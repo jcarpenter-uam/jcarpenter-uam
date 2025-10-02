@@ -22,6 +22,7 @@
 
 -   [**UAMINC**](https://www.uaminc.com/): The companies main page
 -   [**Zoom Translation**](https://github.com/jcarpenter-uam/zoom-translation): A realtime translation pipeline, integrated into a zoom app
+-   [**UAM-IT**](https://github.com/jcarpenter-uam/uam-it): Setting up infrastructure for the staging env
 
 ---
 
