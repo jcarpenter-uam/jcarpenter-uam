@@ -23,6 +23,7 @@
 -   [**UAMINC**](https://www.uaminc.com/): The companies main page
 -   [**Zoom Translation**](https://github.com/jcarpenter-uam/zoom-translation): A realtime translation pipeline, integrated into a zoom app
 -   [**UAM-IT**](https://github.com/jcarpenter-uam/uam-it): A fully IaC staging enviornment used for deploying apps while testing
+-   [**Customer-Reports**](https://github.com/jcarpenter-uam/customer-reports): Simple HTML page for accounting to keep track of customers paperwork and terms
 
 ---
 
