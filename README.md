@@ -24,10 +24,8 @@
 
 # Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=calc-translation-desktop&theme=tokyonight)](https://github.com/jcarpenter-uam/calc-translation-desktop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=calc-translation&theme=tokyonight)](https://github.com/jcarpenter-uam/calc-translation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=uam-it&theme=tokyonight)](https://github.com/jcarpenter-uam/uam-it)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=uam-rmm&theme=tokyonight)](https://github.com/jcarpenter-uam/uam-rmm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=customer-reports&theme=tokyonight)](https://github.com/jcarpenter-uam/customer-reports)
 
 # Stats
 
