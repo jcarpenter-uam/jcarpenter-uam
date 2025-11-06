@@ -22,7 +22,7 @@
 
 ---
 
-# Projects
+# Public Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=calc-translation-desktop&theme=tokyonight)](https://github.com/jcarpenter-uam/calc-translation-desktop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=calc-translation&theme=tokyonight)](https://github.com/jcarpenter-uam/calc-translation)
