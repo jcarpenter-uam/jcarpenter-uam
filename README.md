@@ -30,5 +30,4 @@
 # Stats
 
 [![jcarpenter-uam's Stats](https://github-readme-stats.vercel.app/api?username=jcarpenter-uam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/jcarpenter-uam)
-[![jcarpenter-uam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarpenter-uam&theme=tokyonight&hide_border=true)](https://github.com/jcarpenter-uam)
 [![jcarpenter-uam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpenter-uam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=HTML,CSS)](https://github.com/jcarpenter-uam)
