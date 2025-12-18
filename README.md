@@ -1,7 +1,7 @@
 ---
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jonah-carpenter-aa2644264/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jonah-g-carpenter/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/jonahgcarpenter"><img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub"/></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=jcarpenter-uam&style=for-the-badge"/>
 </p>
