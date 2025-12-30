@@ -24,10 +24,16 @@
 
 # Public Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=calc-translation&theme=tokyonight)](https://github.com/jcarpenter-uam/calc-translation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcarpenter-uam&repo=calc-translation-desktop&theme=tokyonight)](https://github.com/jcarpenter-uam/calc-translation-desktop)
+## [calc-translation](https://github.com/jcarpenter-uam/calc-translation)
+> A real-time translation app integrated with zoom RTMS
+>
+> ![Top Lang](https://img.shields.io/github/languages/top/jcarpenter-uam/calc-translation) ![Commits](https://img.shields.io/github/commit-activity/m/jcarpenter-uam/calc-translation?label=Commit%20Activity)
+
+## [calc-translation-desktop](https://github.com/jcarpenter-uam/calc-translation)
+> A real-time translation app integrated with zoom RTMS, but on desktop
+>
+> ![Top Lang](https://img.shields.io/github/languages/top/jcarpenter-uam/calc-translation-desktop) ![Commits](https://img.shields.io/github/commit-activity/m/jcarpenter-uam/calc-translation-desktop?label=Commit%20Activity)
 
 # Stats
-
-[![jcarpenter-uam's Stats](https://github-readme-stats.vercel.app/api?username=jcarpenter-uam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/jcarpenter-uam)
-[![jcarpenter-uam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarpenter-uam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=HTML,CSS)](https://github.com/jcarpenter-uam)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jcarpenter-uam.jcarpenter-uam)
+![Followers](https://img.shields.io/github/followers/jcarpenter-uam?style=social)
