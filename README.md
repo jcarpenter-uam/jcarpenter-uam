@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jonah-g-carpenter"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/jonahgcarpenter"><img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub"/></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=jcarpenter-uam&style=for-the-badge"/>
 </p>
 
 ---
@@ -29,7 +28,7 @@
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jcarpenter-uam/calc-translation) ![Commits](https://img.shields.io/github/commit-activity/m/jcarpenter-uam/calc-translation?label=Commit%20Activity)
 
-## [calc-translation-desktop](https://github.com/jcarpenter-uam/calc-translation)
+## [calc-translation-desktop](https://github.com/jcarpenter-uam/calc-translation-desktop)
 > A real-time translation app integrated with zoom RTMS, but on desktop
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jcarpenter-uam/calc-translation-desktop) ![Commits](https://img.shields.io/github/commit-activity/m/jcarpenter-uam/calc-translation-desktop?label=Commit%20Activity)
