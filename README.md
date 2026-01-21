@@ -24,12 +24,12 @@
 # Public Projects
 
 ## [calc-translation](https://github.com/jcarpenter-uam/calc-translation)
-> A real-time translation app integrated with zoom RTMS
+> A real-time transcription and translation platform designed to bridge communication gaps in meetings
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jcarpenter-uam/calc-translation) ![Commits](https://img.shields.io/github/commit-activity/m/jcarpenter-uam/calc-translation?label=Commit%20Activity)
 
 ## [calc-translation-desktop](https://github.com/jcarpenter-uam/calc-translation-desktop)
-> A real-time translation app integrated with zoom RTMS, but on desktop
+> The desktop client
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jcarpenter-uam/calc-translation-desktop) ![Commits](https://img.shields.io/github/commit-activity/m/jcarpenter-uam/calc-translation-desktop?label=Commit%20Activity)
 
